@@ -1,0 +1,21 @@
+/* src/Navbar.css */
+
+.navbar {
+  width: 100%;
+  background-color: #282c34;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-brand {
+  color: white;
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.navbar-brand:hover {
+  text-decoration: underline;
+}
